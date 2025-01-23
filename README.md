@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 # 👋 Hey there, I'm McKay!
 
 <!--### 🔗 [Check Out My Website](https://mckaysnell.com/) -->
-- 💻 Full stack software engineer (web, back-end, AI/ML) and machine learning engineer
-- 🏫 Undergraduate senior studying Computer Science at BYU
-- 🔭 Working on Full stack development with React, TypeScript,.NET and AI/ML research with Python (Tensorflow, PyTorch)
+- 💻 Full stack software engineer (web, back-end, AI/ML), machine learning engineer, and database designer
+- 🏫 Undergraduate senior studying Computer Science at BYU (Graduation April 2025)
+- 🔭 Working on Full stack development with C#/.NET, React, TypeScript, MySQL, and AI/ML research with Python (Tensorflow, PyTorch)
+- 🥏 Fun fact about me: I am a Division 1 Ultimate Frisbee Player for Brigham Young University
 <!-- projects -->
 <!-- awards? interests? -->
 
