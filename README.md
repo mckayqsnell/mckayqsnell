@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 - 💻 Full stack software engineer (web, back-end, AI/ML), machine learning engineer, and database designer
 - 🏫 Undergraduate senior studying Computer Science at BYU (Graduation April 2025)
 - 🔭 Working on Full stack development with C#/.NET, React, TypeScript, MySQL, and AI/ML research with Python (Tensorflow, PyTorch)
-- 🥏 Fun fact: I am a Division 1 Ultimate Frisbee Player for Brigham Young University
+- 🥏 Fun fact: I played Division 1 Ultimate Frisbee Player for Brigham Young University and I love Disc Golfing
 <!-- projects -->
 <!-- awards? interests? -->
 
 ### Here are some of the technologies I ❤️ using
-![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,python,ts,js,c,cpp,html,css,mysql,sqlite,aws,terraform,docker,react,vue,nodejs,nextjs,vite,grafana,rabbitmq,redis,mongodb,dynamodb,linux,bash,tensorflow,pytorch,sklearn,git,azure,github&perline=12)
+![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,python,ts,js,c,cpp,html,css,sass,mysql,sqlite,aws,terraform,docker,react,vue,nodejs,nextjs,vite,grafana,rabbitmq,redis,mongodb,dynamodb,linux,bash,tensorflow,pytorch,sklearn,git,azure,github&perline=12)
 
 ### Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mckay-snell/)
