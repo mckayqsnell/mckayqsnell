@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 <!--### 🔗 [Check Out My Website](https://mckaysnell.com/) -->
 - 💻 Full stack software engineer (web, back-end, AI/ML), machine learning engineer, and database designer
-- 🏫 Undergraduate senior studying Computer Science at BYU (Graduation April 2025)
-- 🔭 Working on Full stack development with C#/.NET, React, TypeScript, MySQL, and AI/ML research with Python (Tensorflow, PyTorch)
+- 🏫 Graduated with a Bachelors in Computer Science at BYU (2025)
+- 🔭 Working on Full stack development with C#/.NET, React, Vue, TypeScript, MySQL, and AI/ML research with Python (Tensorflow, PyTorch)
 - 🥏 Fun fact: I played Division 1 Ultimate Frisbee Player for Brigham Young University and I love Disc Golfing
 <!-- projects -->
 <!-- awards? interests? -->
