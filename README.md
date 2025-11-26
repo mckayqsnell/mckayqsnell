@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- awards? interests? -->
 
 ### Here are some of the technologies I ❤️ using
-![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,python,ts,js,c,cpp,html,css,sass,tailwind,mysql,sqlite,aws,terraform,docker,react,vue,nodejs,nextjs,vite,grafana,rabbitmq,redis,mongodb,dynamodb,linux,bash,tensorflow,pytorch,sklearn,git,azure,github&perline=12)
+![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,python,fastapi,ts,js,jest,jquery,c,cpp,html,css,sass,tailwind,mysql,sqlite,nginx,aws,terraform,docker,kubernetes,githubactions,react,vue,nodejs,npm,nextjs,vite,grafana,prometheus,rabbitmq,redis,mongodb,dynamodb,postman,linux,bash,tensorflow,pytorch,sklearn,apple,git,azure,github&perline=12)
 
 ### Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mckay-snell/)
