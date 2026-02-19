@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Hey+there%2C+I'm+McKay+%F0%9F%91%8B;Full+Stack+%2B+ML+Engineer;Building+cool+things+with+great+people" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=800&lines=Hey+there%2C+I'm+McKay;Full+Stack+%2B+ML+Engineer;Building+cool+things+with+great+people" alt="Typing SVG" />
 
   <br/>
 
@@ -13,12 +13,6 @@
   <a href="https://www.buymeacoffee.com/mckayqsnell">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mckayqsnell&theme=github-dark-blue&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
 
 ---
@@ -132,14 +126,6 @@ I'm a full stack software engineer who loves breaking down complex problems into
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,vite,jest,nodejs,npm,postman,rabbitmq,prometheus,grafana&perline=12)
 
-</div>
-
----
-
-### GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mckayqsnell&theme=github-dark&hide_border=true&area=true&area_color=58A6FF" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
