@@ -37,12 +37,42 @@ I'm a full stack software engineer who loves breaking down complex problems into
 - AI-powered health insights pipeline integrating OpenAI for NLP and data extraction
 - Structured observability with Sentry trace correlation and custom logging libraries
 
-**Personal Projects:**
+**Featured Projects:**
 
-| Project | What It Does | Stack |
-|---------|-------------|-------|
-| [**NBA Oracle**](https://nbaoracle.com) | ML-powered NBA game predictions with live scores | React, FastAPI, scikit-learn, Terraform, AWS EC2, Vercel |
-| **Personal Site** | Portfolio and profile | Coming soon |
+<div align="center">
+  <a href="https://github.com/mckayqsnell/nba-oracle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mckayqsnell&repo=nba-oracle&theme=github_dark&hide_border=true" alt="NBA Oracle" />
+  </a>
+  <a href="https://github.com/mckayqsnell/BBC-FineTuned-Llama-Summarizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mckayqsnell&repo=BBC-FineTuned-Llama-Summarizer&theme=github_dark&hide_border=true" alt="BBC Fine-Tuned Llama" />
+  </a>
+  <a href="https://github.com/mckayqsnell/Natural_Language_SQL_AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mckayqsnell&repo=Natural_Language_SQL_AI&theme=github_dark&hide_border=true" alt="Natural Language SQL AI" />
+  </a>
+  <a href="https://devpost.com/software/elevenlab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yi-99&repo=weber-state-hack-2025&theme=github_dark&hide_border=true" alt="TwelveLab Hackathon" />
+  </a>
+</div>
+
+> **[NBA Oracle](https://nbaoracle.com)** - ML-powered NBA game predictions with live adaptive scoring. Full-stack: React, FastAPI, scikit-learn, Terraform, AWS.
+>
+> **[TwelveLab](https://devpost.com/software/elevenlab)** - Chrome extension that replaces YouTube audio with AI-cloned voices. **1st Place, Weber State AI Hackathon.** FastAPI, ElevenLabs, Supabase.
+>
+> **[BBC Llama Summarizer](https://github.com/mckayqsnell/BBC-FineTuned-Llama-Summarizer)** - Fine-tuned Llama 1B on 2,000+ BBC articles for news summarization. HuggingFace, Flask, BLEU/ROUGE eval.
+>
+> **[Natural Language SQL](https://github.com/mckayqsnell/Natural_Language_SQL_AI)** - Converts plain English to SQL queries using GPT with zero-shot, single-domain, and cross-domain prompting strategies.
+
+<details>
+<summary><b>More Projects</b></summary>
+<br>
+
+| Project | Description |
+|---------|-------------|
+| [**Tweeter**](https://github.com/mckayqsnell/tweeter) | Full-stack Twitter clone built with TypeScript |
+| [**Chess**](https://github.com/mckayqsnell/Chess) | Chess engine and game implementation in Java |
+| [**Frontline Job Scraper**](https://github.com/mckayqsnell/Frontline-Education-Substitute-Job-Scraper-Notifier) | Automated web scraper with Telegram notifications for substitute teaching jobs |
+
+</details>
 
 ---
 
