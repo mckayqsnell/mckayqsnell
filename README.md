@@ -80,14 +80,15 @@ I'm a full stack software engineer who loves breaking down complex problems into
       <a href="https://github.com/mckayqsnell/BBC-FineTuned-Llama-Summarizer">View Repo →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mckayqsnell/Natural_Language_SQL_AI">💬 Natural Language SQL</a></h3>
-      <p>Converts plain English to SQL queries using GPT with zero-shot, single-domain, and cross-domain prompting</p>
+      <h3><a href="https://github.com/HEAL-Engineering/LLM-Benchmark">⚡ LLM Benchmark</a></h3>
+      <p>Open-source LLM benchmarking tool — compare any models on your own data with side-by-side speed, cost, quality, and schema compliance reports</p>
       <p>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <a href="https://github.com/mckayqsnell/Natural_Language_SQL_AI">View Repo →</a>
+      <a href="https://github.com/HEAL-Engineering/LLM-Benchmark">View Repo →</a>
     </td>
   </tr>
 </table>
@@ -100,6 +101,7 @@ I'm a full stack software engineer who loves breaking down complex problems into
 |---------|-------------|
 | [**Tweeter**](https://github.com/mckayqsnell/tweeter) | Full-stack Twitter clone built with TypeScript |
 | [**Chess**](https://github.com/mckayqsnell/Chess) | Chess engine and game implementation in Java |
+| [**Natural Language SQL**](https://github.com/mckayqsnell/Natural_Language_SQL_AI) | Converts plain English to SQL queries using GPT with zero-shot, single-domain, and cross-domain prompting |
 | [**Frontline Job Scraper**](https://github.com/mckayqsnell/Frontline-Education-Substitute-Job-Scraper-Notifier) | Automated web scraper with Telegram notifications for substitute teaching jobs |
 
 </details>
