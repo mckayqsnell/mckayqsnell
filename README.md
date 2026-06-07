@@ -1,15 +1,18 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=800&lines=Hey+there%2C+I'm+McKay;Full+Stack+%2B+ML+Engineer;Building+cool+things+with+great+people" alt="Typing SVG" />
 
-  <br/>
+# McKay Snell
 
-  <a href="https://www.linkedin.com/in/mckay-snell/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.buymeacoffee.com/mckayqsnell">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
+*Full Stack + ML Engineer &nbsp;·&nbsp; Python &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Terraform*
+
+<a href="https://www.linkedin.com/in/mckay-snell/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://www.buymeacoffee.com/mckayqsnell">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
+
 </div>
 
 ---
