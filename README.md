@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/mckay-snell/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://nbaoracle.com">
-    <img src="https://img.shields.io/badge/NBA_Oracle-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA0LTggNHoiLz48L3N2Zz4=&logoColor=white" alt="NBA Oracle" />
-  </a>
   <a href="https://www.buymeacoffee.com/mckayqsnell">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
@@ -23,7 +20,7 @@ I'm a full stack software engineer who loves breaking down complex problems into
 
 - **Senior Engineer** building production health-tech systems with Python, FastAPI, Terraform, and AWS
 - **BS Computer Science** from Brigham Young University (2025)
-- **Creator of [NBA Oracle](https://nbaoracle.com)** — ML-powered NBA game predictions, live in production
+- **Open-source builder** — FastAPI backend templates, LLM benchmarking tools, and hackathon-winning AI apps
 - Division 1 Ultimate Frisbee alum at BYU and disc golf enthusiast
 
 ---
@@ -44,18 +41,6 @@ I'm a full stack software engineer who loves breaking down complex problems into
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://nbaoracle.com">🏀 NBA Oracle</a></h3>
-      <p>ML-powered NBA game predictions with live adaptive scoring — deployed and serving real users</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-      </p>
-      <a href="https://github.com/mckayqsnell/nba-oracle">View Repo →</a>
-    </td>
-    <td width="50%" valign="top">
       <h3><a href="https://devpost.com/software/elevenlab">🏆 TwelveLab</a></h3>
       <p>Chrome extension that replaces YouTube audio with AI-cloned voices — <strong>1st Place, Weber State AI Hackathon</strong></p>
       <p>
@@ -66,19 +51,20 @@ I'm a full stack software engineer who loves breaking down complex problems into
       </p>
       <a href="https://devpost.com/software/elevenlab">View on Devpost →</a>
     </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HEAL-Engineering/fastapi-1password-template">🔐 FastAPI 1Password Template</a></h3>
+      <p>Production-ready FastAPI backend template — 1Password secrets management, PostgreSQL, async 4-layer architecture, and a one-command setup wizard</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/1Password-0094F5?style=flat-square&logo=1password&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <a href="https://github.com/HEAL-Engineering/fastapi-1password-template">View Repo →</a>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mckayqsnell/BBC-FineTuned-Llama-Summarizer">🦙 BBC Llama Summarizer</a></h3>
-      <p>Fine-tuned Llama 1B on 2,000+ BBC articles for news summarization with BLEU/ROUGE evaluation</p>
-      <p>
-        <img src="https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white" />
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-      <a href="https://github.com/mckayqsnell/BBC-FineTuned-Llama-Summarizer">View Repo →</a>
-    </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/HEAL-Engineering/LLM-Benchmark">⚡ LLM Benchmark</a></h3>
       <p>Open-source LLM benchmarking tool — compare any models on your own data with side-by-side speed, cost, quality, and schema compliance reports</p>
@@ -90,6 +76,17 @@ I'm a full stack software engineer who loves breaking down complex problems into
       </p>
       <a href="https://github.com/HEAL-Engineering/LLM-Benchmark">View Repo →</a>
     </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mckayqsnell/BBC-FineTuned-Llama-Summarizer">🦙 BBC Llama Summarizer</a></h3>
+      <p>Fine-tuned Llama 1B on 2,000+ BBC articles for news summarization with BLEU/ROUGE evaluation</p>
+      <p>
+        <img src="https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white" />
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <a href="https://github.com/mckayqsnell/BBC-FineTuned-Llama-Summarizer">View Repo →</a>
+    </td>
   </tr>
 </table>
 
@@ -99,6 +96,10 @@ I'm a full stack software engineer who loves breaking down complex problems into
 
 | Project | Description |
 |---------|-------------|
+| [**JobNimbus AI Roofing**](https://github.com/AIBuilderDay/JobNimbus) | Address → roof estimate: slanted roof area, a 3D model, and quote-ready pricing from Google Solar + Replicate 3D — AI Builder Day hackathon (Lehi, UT) |
+| [**Nucleus Institute**](https://github.com/AIBuilderDay/NucleusInstitute) | AI-powered talent ↔ startup matching for Utah's innovation ecosystem — AI Builder Day hackathon (Lehi, UT) |
+| [**heal-1password-utils**](https://github.com/HEAL-Engineering/heal-1password-utils) | Tiny, language-agnostic 1Password ↔ `.env` workflow — three files, no SDK, keeps secrets out of git |
+| [**NBA Oracle**](https://github.com/mckayqsnell/nba-oracle) | ML-powered NBA game predictions with live adaptive scoring — React, FastAPI, scikit-learn, AWS |
 | [**Tweeter**](https://github.com/mckayqsnell/tweeter) | Full-stack Twitter clone built with TypeScript |
 | [**Chess**](https://github.com/mckayqsnell/Chess) | Chess engine and game implementation in Java |
 | [**Natural Language SQL**](https://github.com/mckayqsnell/Natural_Language_SQL_AI) | Converts plain English to SQL queries using GPT with zero-shot, single-domain, and cross-domain prompting |
