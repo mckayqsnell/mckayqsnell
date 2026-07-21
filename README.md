@@ -80,15 +80,16 @@ I'm a full stack software engineer who loves breaking down complex problems into
       <a href="https://github.com/HEAL-Engineering/LLM-Benchmark">View Repo →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mckayqsnell/BBC-FineTuned-Llama-Summarizer">🦙 BBC Llama Summarizer</a></h3>
-      <p>Fine-tuned Llama 1B on 2,000+ BBC articles for news summarization with BLEU/ROUGE evaluation</p>
+      <h3><a href="https://github.com/mckayqsnell/skill-tree-survey">🌳 Skill Tree Survey</a></h3>
+      <p>Gamified engineering skill evaluator — retro terminal UI, print-ready reports, and a hidden Pokémon honesty trap for resume-padders</p>
       <p>
-        <img src="https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white" />
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <a href="https://github.com/mckayqsnell/BBC-FineTuned-Llama-Summarizer">View Repo →</a>
+      <a href="https://github.com/mckayqsnell/skill-tree-survey">View Repo →</a>
     </td>
   </tr>
 </table>
@@ -101,7 +102,7 @@ I'm a full stack software engineer who loves breaking down complex problems into
 |---------|-------------|
 | [**JobNimbus AI Roofing**](https://github.com/AIBuilderDay/JobNimbus) | Address → roof estimate: slanted roof area, a 3D model, and quote-ready pricing from Google Solar + Replicate 3D — AI Builder Day hackathon (Lehi, UT) |
 | [**Nucleus Institute**](https://github.com/AIBuilderDay/NucleusInstitute) | AI-powered talent ↔ startup matching for Utah's innovation ecosystem — AI Builder Day hackathon (Lehi, UT) |
-| [**skill-tree-survey**](https://github.com/mckayqsnell/skill-tree-survey) | Gamified skill-tree evaluator (Vue 3 + FastAPI) with a retro terminal UI, print-ready reports, and a hidden Pokémon honesty trap for resume-padders |
+| [**BBC Llama Summarizer**](https://github.com/mckayqsnell/BBC-FineTuned-Llama-Summarizer) | Fine-tuned Llama 1B on 2,000+ BBC articles for news summarization with BLEU/ROUGE evaluation |
 | [**password123**](https://github.com/nathanlonghurst/password123) | Tiny, language-agnostic 1Password ↔ `.env` workflow — three files, no SDK, keeps secrets out of git |
 | [**sentry-struct-logger**](https://github.com/nathanlonghurst/sentry-struct-logger) | Structured JSON logging for Python with Sentry trace correlation |
 | [**NBA Oracle**](https://github.com/mckayqsnell/nba-oracle) | ML-powered NBA game predictions with live adaptive scoring — React, FastAPI, scikit-learn, AWS |
