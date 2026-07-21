@@ -55,7 +55,7 @@ I'm a full stack software engineer who loves breaking down complex problems into
       <a href="https://devpost.com/software/elevenlab">View on Devpost →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/HEAL-Engineering/fastapi-1password-template">🔐 FastAPI 1Password Template</a></h3>
+      <h3><a href="https://github.com/nathanlonghurst/fast-template">🔐 FastAPI 1Password Template</a></h3>
       <p>Production-ready FastAPI backend template — 1Password secrets management, PostgreSQL, async 4-layer architecture, and a one-command setup wizard</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -64,7 +64,7 @@ I'm a full stack software engineer who loves breaking down complex problems into
         <img src="https://img.shields.io/badge/1Password-0094F5?style=flat-square&logo=1password&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <a href="https://github.com/HEAL-Engineering/fastapi-1password-template">View Repo →</a>
+      <a href="https://github.com/nathanlonghurst/fast-template">View Repo →</a>
     </td>
   </tr>
   <tr>
@@ -101,7 +101,9 @@ I'm a full stack software engineer who loves breaking down complex problems into
 |---------|-------------|
 | [**JobNimbus AI Roofing**](https://github.com/AIBuilderDay/JobNimbus) | Address → roof estimate: slanted roof area, a 3D model, and quote-ready pricing from Google Solar + Replicate 3D — AI Builder Day hackathon (Lehi, UT) |
 | [**Nucleus Institute**](https://github.com/AIBuilderDay/NucleusInstitute) | AI-powered talent ↔ startup matching for Utah's innovation ecosystem — AI Builder Day hackathon (Lehi, UT) |
-| [**heal-1password-utils**](https://github.com/HEAL-Engineering/heal-1password-utils) | Tiny, language-agnostic 1Password ↔ `.env` workflow — three files, no SDK, keeps secrets out of git |
+| [**skill-tree-survey**](https://github.com/mckayqsnell/skill-tree-survey) | Gamified skill-tree evaluator (Vue 3 + FastAPI) with a retro terminal UI, print-ready reports, and a hidden Pokémon honesty trap for resume-padders |
+| [**password123**](https://github.com/nathanlonghurst/password123) | Tiny, language-agnostic 1Password ↔ `.env` workflow — three files, no SDK, keeps secrets out of git |
+| [**sentry-struct-logger**](https://github.com/nathanlonghurst/sentry-struct-logger) | Structured JSON logging for Python with Sentry trace correlation |
 | [**NBA Oracle**](https://github.com/mckayqsnell/nba-oracle) | ML-powered NBA game predictions with live adaptive scoring — React, FastAPI, scikit-learn, AWS |
 | [**Tweeter**](https://github.com/mckayqsnell/tweeter) | Full-stack Twitter clone built with TypeScript |
 | [**Chess**](https://github.com/mckayqsnell/Chess) | Chess engine and game implementation in Java |
