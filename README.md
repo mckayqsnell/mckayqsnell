@@ -69,7 +69,7 @@ I'm a full stack software engineer who loves breaking down complex problems into
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/HEAL-Engineering/LLM-Benchmark">⚡ LLM Benchmark</a></h3>
+      <h3><a href="https://github.com/mckayqsnell/LLM-Benchmark">⚡ LLM Benchmark</a></h3>
       <p>Open-source LLM benchmarking tool — compare any models on your own data with side-by-side speed, cost, quality, and schema compliance reports</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -77,7 +77,7 @@ I'm a full stack software engineer who loves breaking down complex problems into
         <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <a href="https://github.com/HEAL-Engineering/LLM-Benchmark">View Repo →</a>
+      <a href="https://github.com/mckayqsnell/LLM-Benchmark">View Repo →</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mckayqsnell/skill-tree-survey">🌳 Skill Tree Survey</a></h3>
